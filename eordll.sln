@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "eordll", "eordll\eordll.vcxproj", "{7C6D2148-3B6B-4490-83D9-8B80B6DD6E32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C6D2148-3B6B-4490-83D9-8B80B6DD6E32}.Debug|x64.ActiveCfg = Debug|x64
+		{7C6D2148-3B6B-4490-83D9-8B80B6DD6E32}.Debug|x64.Build.0 = Debug|x64
+		{7C6D2148-3B6B-4490-83D9-8B80B6DD6E32}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C6D2148-3B6B-4490-83D9-8B80B6DD6E32}.Debug|x86.Build.0 = Debug|Win32
+		{7C6D2148-3B6B-4490-83D9-8B80B6DD6E32}.Release|x64.ActiveCfg = Release|x64
+		{7C6D2148-3B6B-4490-83D9-8B80B6DD6E32}.Release|x64.Build.0 = Release|x64
+		{7C6D2148-3B6B-4490-83D9-8B80B6DD6E32}.Release|x86.ActiveCfg = Release|Win32
+		{7C6D2148-3B6B-4490-83D9-8B80B6DD6E32}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CC0F2B3-D016-41D9-95E6-3082FABF579C}
+	EndGlobalSection
+EndGlobal
